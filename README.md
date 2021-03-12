@@ -28,6 +28,7 @@ _El acceso a la base de datos se hizo con mysqli, no se usó PDO por facilidad d
 
 *NOTA: Se siguió el patrón Modelo Vista Controlador en PHP.*
 
-*:warning: :warning: :warning: Cualquier duda porfavor contactar al desarrollador del aplicativo vía Github o por correo o celular..* :warning: :warning: :warning:
+*:warning: :warning: :warning: Cualquier duda porfavor contactar al desarrollador del aplicativo vía Github o por correo o celular. De seguro atenderá cualquier corrección o sugerencia con prontitud y agrado.* :warning: :warning: :warning:
 
-*Muchas gracias!* 
+*Muchas gracias!*  :blush:  :blush:  :blush:
+
