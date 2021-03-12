@@ -20,7 +20,7 @@ _El acceso a la base de datos se hizo con mysqli, no se usó PDO por facilidad d
 
 2. Una vez se cree la carpeta, dentro de esta encontrará el archivo ***queries.sql***, copie y pegue las sentencias SQL que contiene a su Administrador de base de datos preferido, esto creará la base de datos ***proimpo_test_DB***, la tabla ***usuarios***, y un usuario de prueba, cuyo nombre de usuario es _prueba_ y su contraseña es _rasmuslerdorf_
 
-3. En el archivo PHP ***model/dbModel.php***, en las líneas 12, 13 y 14 se encuentran los datos de la dirección IP del servidor MySQL, el nombre de usuario y el password de dicho servidor respectivamente. Cambie por favor esta información dependiendo de la configuración de su servidor MySQL
+3. En el archivo PHP ***model/dbModel.php***, en las líneas 12, 13 y 14, se encuentran los datos de la dirección IP del servidor MySQL, el nombre de usuario y el password de dicho servidor respectivamente. Cambie por favor esta información dependiendo de la configuración de su servidor MySQL
 
 4. El aplicativo web es intuitivo, dentro de él podrá registrar nuevos usuarios y loguearse para cambiar su información personal
 
