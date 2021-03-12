@@ -1,0 +1,31 @@
+
+body {
+    /*background-color:#EAEBF5;*/
+    background-color:#EAEBF5;
+}
+/*
+.container{
+    background-color:white;
+}
+*/
+
+.my-row {
+    margin: 20px;
+}
+
+.my-row-high{
+    margin-top: 40px;
+}
+
+.my-row-low{
+    margin-bottom: 20px;
+}
+
+.my-col {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.table-row{
+    cursor: pointer;
+}
