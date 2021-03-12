@@ -28,7 +28,7 @@ http://localhost/proimpo_test_EdierGuzman
 ```
 Por favor, cambie _localhost_ por la dirección IP de su servidor web, si este no se encuentra en su misma máquina.
 
-4. El aplicativo web es intuitivo, dentro de él podrá registrar nuevos usuarios y loguearse para cambiar su información personal
+5. El aplicativo web es intuitivo, dentro de él podrá registrar nuevos usuarios y loguearse para cambiar su información personal
 
 
 
