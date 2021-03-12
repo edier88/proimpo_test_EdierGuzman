@@ -16,7 +16,7 @@ _El acceso a la base de datos se hizo con mysqli, no se usó PDO por facilidad d
 
 ### Instalación y configuración 🔧
 
-1. Clone el siguiente repositorio en la carpeta raíz de su servidor web
+**1.** Clone el siguiente repositorio en la carpeta raíz de su servidor web
 
 2. Una vez se cree la carpeta, dentro de esta encontrará el archivo ***queries.sql***, copie y pegue las sentencias SQL que contiene a su Administrador de base de datos preferido, esto creará la base de datos ***proimpo_test_DB***, la tabla ***usuarios***, y un usuario de prueba, cuyo nombre de usuario es _prueba_ y su contraseña es _rasmuslerdorf_
 
